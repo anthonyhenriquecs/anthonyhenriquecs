@@ -1,11 +1,11 @@
-### Ola, eu sou o Henrique 👋
+### Ola, eu sou o Henrique 👾
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/anthony_henriquecs)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/henrique-anthony-27a5a3248)
 
-![anthonyhenriquecs GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyhenriquecs&show_icons=true&theme=gruvbox)
+![anthonyhenriquecs GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyhenriquecs&show_icons=true&theme=radical)
 
 ## Tecnologias que utilizo:
 <div style="display: inline_block"><br/>
