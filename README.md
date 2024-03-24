@@ -20,7 +20,7 @@
 ### Para conteúdo e contato sobre programação me segue nas redes abaixo!
  
 <div> 
-  <a href="https://www.instagram.com/anthony_henriquecs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
+  <a href="https://www.instagram.com/big__programmer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-anthony-27a5a3248" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
