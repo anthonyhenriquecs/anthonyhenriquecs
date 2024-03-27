@@ -84,10 +84,5 @@
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
-<div> 
-  <a href="https://www.instagram.com/big__programmer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henrique-anthony-27a5a3248" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
 Algumas pessoas lêem "Guerra e Paz" e acham que é um simples romance. Outras pessoas lêem uma embalagem de chiclete e desvendam os segredos do universo...
 -Lex Luthor
