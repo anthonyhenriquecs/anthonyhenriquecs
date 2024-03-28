@@ -1,14 +1,12 @@
-## Ola, eu sou o Henrique 👾
-### Bem-vindo(a) ao meu perfil 😁
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/anthonyhenriquecs/anthonyhenriquecs/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
-&nbsp;&nbsp;&nbsp;
+## Nome: Henrique Anthony
+<p align="center">Bem-vindo(a) ao meu perfil 😁</p>&nbsp; 
 
 
-<p align="center">Eu ❤️ resolver grandes problemas usando a tecnologia. <br><br> Sou um entusiasta de Python e apaixonado por inteligência artificial e análise de dados. Busco constantemente inovar e aventurar-me no desconhecido. Meu objetivo é projetar soluções que transformem o mundo, combinando minha paixão pela tecnologia com uma busca incessante por novos desafios.</p>&nbsp;  
+<p align="center">Eu ❤️ resolver grandes problemas usando a tecnologia. <br><br> Sou um entusiasta de Python e apaixonado por inteligência artificial, análise de dados... Busco constantemente inovar e aventurar-me no desconhecido. Meu objetivo é projetar soluções que transformem o mundo, combinando minha paixão pela tecnologia com uma busca incessante por novos desafios.</p>&nbsp;  
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=anthonyhenriquecs&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=anthonyhenriquecs&show_icons=true&theme=radical&layout=compact" />
+
  </div>
  
  &nbsp;
@@ -40,24 +38,27 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![ARDUINO](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
+![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 
-#### Studying in this moment:
-
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 
 #### Databases:
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)&nbsp;
+![SQLITE](	https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+
 
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
+![POWERBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;
+![Colab](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)&nbsp;
+![Pyvharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
+![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
